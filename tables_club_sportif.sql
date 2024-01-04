@@ -1,4 +1,4 @@
---creation des tables de notre base de données
+
 
 CREATE TABLE licencies (
 licencie_id INT AUTO_INCREMENT PRIMARY KEY,
